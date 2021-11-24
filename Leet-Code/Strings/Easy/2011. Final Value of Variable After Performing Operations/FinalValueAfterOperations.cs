@@ -13,3 +13,9 @@ public int FinalValueAfterOperations(string[] operations) {
 		}
 		return initial;
 }
+
+/*
+    --Md Mehedi Hasan
+    --http://linkedin.com/in/mehedi9339
+    --http://profileofmehedi.xyz
+*/

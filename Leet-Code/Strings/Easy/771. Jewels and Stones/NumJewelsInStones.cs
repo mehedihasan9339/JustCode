@@ -13,3 +13,9 @@ public int NumJewelsInStones(string jewels, string stones)
     }
     return count;
 }
+
+/*
+    --Md Mehedi Hasan
+    --http://linkedin.com/in/mehedi9339
+    --http://profileofmehedi.xyz
+*/
