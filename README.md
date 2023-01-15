@@ -1,4 +1,4 @@
-# Programming-Problem-Solve
+# Just Code_Index
 
 ## Leet-Code > Array > Easy
 * 1365. How Many Numbers Are Smaller Than the Current Number
@@ -6,22 +6,22 @@
 * 2011. Final Value of Variable After Performing Operations
 
 ## Leet-Code > Strings > Easy
-* 557. Reverse Words in a String III
-* 709. To Lower Case
-* 771. Jewels and Stones
-* 1108. Defanging an IP Address
-* 1436. Destination City
-* 1528. Shuffle String
-* 1662. Check If Two String Arrays are Equivalent
-* 1704. Determine if String Halves Are Alike
-* 1768. Merge Strings Alternately
-* 1816. Truncate Sentence
-* 1844. Replace All Digits with Characters
-* 1859. Sorting the Sentence
-* 1967. Number of Strings That Appear as Substrings in Word
-* 2000. Reverse Prefix of Word
-* 2011. Final Value of Variable After Performing Operations
-* 2114. Maximum Number of Words Found in Sentences
+* Reverse Words in a String III
+* To Lower Case
+* Jewels and Stones
+* Defanging an IP Address
+* Destination City
+* Shuffle String
+* Check If Two String Arrays are Equivalent
+* Determine if String Halves Are Alike
+* Merge Strings Alternately
+* Truncate Sentence
+* Replace All Digits with Characters
+* Sorting the Sentence
+* Number of Strings That Appear as Substrings in Word
+* Reverse Prefix of Word
+* Final Value of Variable After Performing Operations
+* Maximum Number of Words Found in Sentences
 
 ## HackerRank > Strings > Easy
 * FunnyString
