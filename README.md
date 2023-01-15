@@ -1,11 +1,11 @@
 # Just Code_Index
 
-## Leet-Code > Array > Easy
+## <b>Leet-Code > Array > Easy</b>
 1. 1365-How Many Numbers Are Smaller Than the Current Number
 1. 1480-Running Sum of 1d Array
 1. 2011-Final Value of Variable After Performing Operations
 
-## Leet-Code > Strings > Easy
+## <b>Leet-Code > Strings > Easy</b>
 1. 1108-Defanging an IP Address
 1. 1436-Destination City
 1. 1528-Shuffle String
@@ -23,21 +23,21 @@
 1. 709-To Lower Case
 1. 771-Jewels and Stones
 
-## HackerRank > Strings > Easy
+## <b>HackerRank > Strings > Easy</b>
 1. FunnyString
 1. TwoStrings
 1. HackerRankInString
 1. StrongPassword
 1. CamelCase
 
-## HackerRank > Warmup > Easy
+## <b>HackerRank > Warmup > Easy</b>
 1. AVeryBigSum
 1. MiniMaxSum
 1. PlusMinus
 1. SimpleArraySum
 1. TimeConversion
 
-## URI Online Judge > Easy
+## <b>URI Online Judge > Easy</b>
 1. 1001-Extremely Basic
 1. 1002-Area of a circle
 1. 1003-Simple Sum
@@ -112,7 +112,7 @@
 1. 1929-Triangle
 1. 2313-Which Triangle
 
-## Other Problems
+## <b>Other Problems</b>
 1. AlphabetTriangle
 1. ArmstrongNumber
 1. BubbleSort
