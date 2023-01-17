@@ -36,6 +36,10 @@
 1. PlusMinus
 1. SimpleArraySum
 1. TimeConversion
+1. BirthdayCakeCandles
+1. Staircase
+1. CompareTriplates
+1. MissingNumbers
 
 ## <b>URI Online Judge > Easy</b>
 1. 1001-Extremely Basic
