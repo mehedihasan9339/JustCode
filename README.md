@@ -41,6 +41,16 @@
 1. CompareTriplates
 1. MissingNumbers
 
+
+## <b>HackerRank > Implementation > Easy</b>
+1. Divisible Sum Pairs
+1. Sales By Match
+
+
+## <b>HackerRank > Others</b>
+1. Grading Students-U
+1. Solve Me First
+
 ## <b>URI Online Judge > Easy</b>
 1. 1001-Extremely Basic
 1. 1002-Area of a circle
