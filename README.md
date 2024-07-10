@@ -1,144 +1,132 @@
 # Just Code_Index
 
-## <b>Leet-Code > Array > Easy</b>
-1. 1365-How Many Numbers Are Smaller Than the Current Number
-1. 1480-Running Sum of 1d Array
-1. 2011-Final Value of Variable After Performing Operations
 
-## <b>Leet-Code > Strings > Easy</b>
-1. 1108-Defanging an IP Address
-1. 1436-Destination City
-1. 1528-Shuffle String
-1. 1662-Check If Two String Arrays are Equivalent
-1. 1704-Determine if String Halves Are Alike
-1. 1768-Merge Strings Alternately
-1. 1816-Truncate Sentence
-1. 1844-Replace All Digits with Characters
-1. 1859-Sorting the Sentence
-1. 1967-Number of Strings That Appear as Substrings in Word
-1. 2000-Reverse Prefix of Word
-1. 2011-Final Value of Variable After Performing Operations
-1. 2114-Maximum Number of Words Found in Sentences
-1. 557-Reverse Words in a String III
-1. 709-To Lower Case
-1. 771-Jewels and Stones
+- HackerRank
+  - Implementation
+    - Easy
+      - [Bill Division](HackerRank/Implementation/Easy/Bill%20Division)
+      - [Day Of The Programmer](HackerRank/Implementation/Easy/Day%20Of%20The%20Programmer)
+      - [Divisible Sum Pairs](HackerRank/Implementation/Easy/Divisible%20Sum%20Pairs)
+      - [SalesByMatch](HackerRank/Implementation/Easy/SalesByMatch)
+  - Others
+    - [GradingStudents-U](HackerRank/Others/GradingStudents-U)
+    - [SolveMeFirst](HackerRank/Others/SolveMeFirst)
+  - Strings
+    - Easy
+      - [CamelCase](HackerRank/Strings/Easy/CamelCase)
+      - [FunnyString](HackerRank/Strings/Easy/FunnyString)
+      - [HackerRankInString](HackerRank/Strings/Easy/HackerRankInString)
+      - [StrongPassword](HackerRank/Strings/Easy/StrongPassword)
+      - [TwoStrings](HackerRank/Strings/Easy/TwoStrings)
+  - Warmup
+    - Easy
+      - [AVeryBigSum](HackerRank/Warmup/Easy/AVeryBigSum)
+      - [BirthdayCakeCandles](HackerRank/Warmup/Easy/BirthdayCakeCandles)
+      - [CompareTriplates](HackerRank/Warmup/Easy/CompareTriplates)
+      - [MiniMaxSum](HackerRank/Warmup/Easy/MiniMaxSum)
+      - [MissingNumbers](HackerRank/Warmup/Easy/MissingNumbers)
+      - [PlusMinus](HackerRank/Warmup/Easy/PlusMinus)
+      - [SimpleArraySum](HackerRank/Warmup/Easy/SimpleArraySum)
+      - [Staircase](HackerRank/Warmup/Easy/Staircase)
+      - [TimeConversion](HackerRank/Warmup/Easy/TimeConversion)
+- Leet-Code
+  - Array
+    - Easy
+  - Database
+    - Easy
+      - [Duplicate Emails](Leet-Code/Database/Easy/Duplicate%20Emails)
+  - Strings
+    - Easy
+      - [1108-Defanging an IP Address](Leet-Code/Strings/Easy/1108-Defanging%20an%20IP%20Address)
+      - [1436-Destination City](Leet-Code/Strings/Easy/1436-Destination%20City)
+      - [1528-Shuffle String](Leet-Code/Strings/Easy/1528-Shuffle%20String)
+      - [1662-Check If Two String Arrays are Equivalent](Leet-Code/Strings/Easy/1662-Check%20If%20Two%20String%20Arrays%20are%20Equivalent)
+      - [1704-Determine if String Halves Are Alike](Leet-Code/Strings/Easy/1704-Determine%20if%20String%20Halves%20Are%20Alike)
+      - [1768-Merge Strings Alternately](Leet-Code/Strings/Easy/1768-Merge%20Strings%20Alternately)
+      - [1816-Truncate Sentence](Leet-Code/Strings/Easy/1816-Truncate%20Sentence)
+      - [1844-Replace All Digits with Characters](Leet-Code/Strings/Easy/1844-Replace%20All%20Digits%20with%20Characters)
+      - [1859-Sorting the Sentence](Leet-Code/Strings/Easy/1859-Sorting%20the%20Sentence)
+      - [1967-Number of Strings That Appear as Substrings in Word](Leet-Code/Strings/Easy/1967-Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word)
+      - [2000-Reverse Prefix of Word](Leet-Code/Strings/Easy/2000-Reverse%20Prefix%20of%20Word)
+      - [2011-Final Value of Variable After Performing Operations](Leet-Code/Strings/Easy/2011-Final%20Value%20of%20Variable%20After%20Performing%20Operations)
+      - [2114-Maximum Number of Words Found in Sentences](Leet-Code/Strings/Easy/2114-Maximum%20Number%20of%20Words%20Found%20in%20Sentences)
+      - [557-Reverse Words in a String III](Leet-Code/Strings/Easy/557-Reverse%20Words%20in%20a%20String%20III)
+      - [709-To Lower Case](Leet-Code/Strings/Easy/709-To%20Lower%20Case)
+      - [771-Jewels and Stones](Leet-Code/Strings/Easy/771-Jewels%20and%20Stones)
+- Other Problems
+- URI Online Judge
+  - Easy
+    - [1001-Extremely Basic](URI%20Online%20Judge/Easy/1001-Extremely%20Basic)
+    - [1002-Area of a circle](URI%20Online%20Judge/Easy/1002-Area%20of%20a%20circle)
+    - [1003-Simple Sum](URI%20Online%20Judge/Easy/1003-Simple%20Sum)
+    - [1004-Simple Product](URI%20Online%20Judge/Easy/1004-Simple%20Product)
+    - [1005-Average 1](URI%20Online%20Judge/Easy/1005-Average%201)
+    - [1006-Average 2](URI%20Online%20Judge/Easy/1006-Average%202)
+    - [1007-Difference](URI%20Online%20Judge/Easy/1007-Difference)
+    - [1008-Salary](URI%20Online%20Judge/Easy/1008-Salary)
+    - [1009-Salary With Bonus](URI%20Online%20Judge/Easy/1009-Salary%20With%20Bonus)
+    - [1010-Simple Calculate](URI%20Online%20Judge/Easy/1010-Simple%20Calculate)
+    - [1011-Sphere](URI%20Online%20Judge/Easy/1011-Sphere)
+    - [1012-Area](URI%20Online%20Judge/Easy/1012-Area)
+    - [1013-The Greatest](URI%20Online%20Judge/Easy/1013-The%20Greatest)
+    - [1014-Consumption](URI%20Online%20Judge/Easy/1014-Consumption)
+    - [1015-DistanceBetweenTwoPoints](URI%20Online%20Judge/Easy/1015-DistanceBetweenTwoPoints)
+    - [1016-Distance](URI%20Online%20Judge/Easy/1016-Distance)
+    - [1017-Fuel Spent](URI%20Online%20Judge/Easy/1017-Fuel%20Spent)
+    - [1018-Banknotes](URI%20Online%20Judge/Easy/1018-Banknotes)
+    - [1019-Time Conversion](URI%20Online%20Judge/Easy/1019-Time%20Conversion)
+    - [1020-Age In Days](URI%20Online%20Judge/Easy/1020-Age%20In%20Days)
+    - [1021-Banknotes and Coins](URI%20Online%20Judge/Easy/1021-Banknotes%20and%20Coins)
+    - [1035-Selection Test 1](URI%20Online%20Judge/Easy/1035-Selection%20Test%201)
+    - [1036-Bhaskara's Formula](URI%20Online%20Judge/Easy/1036-Bhaskara's%20Formula)
+    - [1037-Interval](URI%20Online%20Judge/Easy/1037-Interval)
+    - [1038-Snack](URI%20Online%20Judge/Easy/1038-Snack)
+    - [1040-Average 3](URI%20Online%20Judge/Easy/1040-Average%203)
+    - [1041-Coordinates of a Point](URI%20Online%20Judge/Easy/1041-Coordinates%20of%20a%20Point)
+    - [1042-Simple Sort](URI%20Online%20Judge/Easy/1042-Simple%20Sort)
+    - [1043-Triangle](URI%20Online%20Judge/Easy/1043-Triangle)
+    - [1044-Multiples](URI%20Online%20Judge/Easy/1044-Multiples)
+    - [1045-Triangle Types](URI%20Online%20Judge/Easy/1045-Triangle%20Types)
+    - [1046-Game Time](URI%20Online%20Judge/Easy/1046-Game%20Time)
+    - [1047-Game Time with Minutes](URI%20Online%20Judge/Easy/1047-Game%20Time%20with%20Minutes)
+    - [1048-Salary Increase](URI%20Online%20Judge/Easy/1048-Salary%20Increase)
+    - [1059-Even Numbers](URI%20Online%20Judge/Easy/1059-Even%20Numbers)
+    - [1060-Positive Numbers](URI%20Online%20Judge/Easy/1060-Positive%20Numbers)
+    - [1064-Positives and Average](URI%20Online%20Judge/Easy/1064-Positives%20and%20Average)
+    - [1065-Even Between Five Numbers](URI%20Online%20Judge/Easy/1065-Even%20Between%20Five%20Numbers)
+    - [1066-Even, Odd, Positive and Negative](URI%20Online%20Judge/Easy/1066-Even,%20Odd,%20Positive%20and%20Negative)
+    - [1067-Odd Numbers](URI%20Online%20Judge/Easy/1067-Odd%20Numbers)
+    - [1070-Six Odd Numbers](URI%20Online%20Judge/Easy/1070-Six%20Odd%20Numbers)
+    - [1071-Sum of Consecutive Odd Numbers I](URI%20Online%20Judge/Easy/1071-Sum%20of%20Consecutive%20Odd%20Numbers%20I)
+    - [1072-Interval 2](URI%20Online%20Judge/Easy/1072-Interval%202)
+    - [1073-Even Square](URI%20Online%20Judge/Easy/1073-Even%20Square)
+    - [1074-Even Or Odd](URI%20Online%20Judge/Easy/1074-Even%20Or%20Odd)
+    - [1075-Remaining 2](URI%20Online%20Judge/Easy/1075-Remaining%202)
+    - [1078-Multiplication Table](URI%20Online%20Judge/Easy/1078-Multiplication%20Table)
+    - [1080-Highest and Position](URI%20Online%20Judge/Easy/1080-Highest%20and%20Position)
+    - [1099-Sum of Consecutive Odd Numbers II](URI%20Online%20Judge/Easy/1099-Sum%20of%20Consecutive%20Odd%20Numbers%20II)
+    - [1101-Sequence of Numbers and Sum](URI%20Online%20Judge/Easy/1101-Sequence%20of%20Numbers%20and%20Sum)
+    - [1113-Ascending and Descending](URI%20Online%20Judge/Easy/1113-Ascending%20and%20Descending)
+    - [1115-Quadrant](URI%20Online%20Judge/Easy/1115-Quadrant)
+    - [1116-Dividing X by Y](URI%20Online%20Judge/Easy/1116-Dividing%20X%20by%20Y)
+    - [1117-Score Validation](URI%20Online%20Judge/Easy/1117-Score%20Validation)
+    - [1132-Multiples of 13](URI%20Online%20Judge/Easy/1132-Multiples%20of%2013)
+    - [1133-Rest of a Division](URI%20Online%20Judge/Easy/1133-Rest%20of%20a%20Division)
+    - [1134-Type of Fuel](URI%20Online%20Judge/Easy/1134-Type%20of%20Fuel)
+    - [1142-PUM](URI%20Online%20Judge/Easy/1142-PUM)
+    - [1143-Squared and Cubic](URI%20Online%20Judge/Easy/1143-Squared%20and%20Cubic)
+    - [1144-Logical Sequence](URI%20Online%20Judge/Easy/1144-Logical%20Sequence)
+    - [1145-Logical Sequence 2](URI%20Online%20Judge/Easy/1145-Logical%20Sequence%202)
+    - [1146-Growing Sequences](URI%20Online%20Judge/Easy/1146-Growing%20Sequences)
+    - [1153-Simple Factorial](URI%20Online%20Judge/Easy/1153-Simple%20Factorial)
+    - [1154-Ages](URI%20Online%20Judge/Easy/1154-Ages)
+    - [1155-S Sequence](URI%20Online%20Judge/Easy/1155-S%20Sequence)
+    - [1157-Divisors I](URI%20Online%20Judge/Easy/1157-Divisors%20I)
+    - [1158-Sum of Consecutive Odd Numbers III](URI%20Online%20Judge/Easy/1158-Sum%20of%20Consecutive%20Odd%20Numbers%20III)
+    - [1159-Sum of Consecutive Even Numbers](URI%20Online%20Judge/Easy/1159-Sum%20of%20Consecutive%20Even%20Numbers)
+    - [1164-Perfect Number](URI%20Online%20Judge/Easy/1164-Perfect%20Number)
+    - [1180-Lowest Number and Position](URI%20Online%20Judge/Easy/1180-Lowest%20Number%20and%20Position)
+    - [1847-Welcome to the Winter!](URI%20Online%20Judge/Easy/1847-Welcome%20to%20the%20Winter!)
+    - [1929-Triangle](URI%20Online%20Judge/Easy/1929-Triangle)
+    - [2313-Which Triangle](URI%20Online%20Judge/Easy/2313-Which%20Triangle)
 
-## <b>HackerRank > Strings > Easy</b>
-1. FunnyString
-1. TwoStrings
-1. HackerRankInString
-1. StrongPassword
-1. CamelCase
-
-## <b>HackerRank > Warmup > Easy</b>
-1. AVeryBigSum
-1. MiniMaxSum
-1. PlusMinus
-1. SimpleArraySum
-1. TimeConversion
-1. BirthdayCakeCandles
-1. Staircase
-1. CompareTriplates
-1. MissingNumbers
-
-
-## <b>HackerRank > Implementation > Easy</b>
-1. Divisible Sum Pairs
-1. Sales By Match
-
-
-## <b>HackerRank > Others</b>
-1. Grading Students-U
-1. Solve Me First
-
-## <b>URI Online Judge > Easy</b>
-1. 1001-Extremely Basic
-1. 1002-Area of a circle
-1. 1003-Simple Sum
-1. 1004-Simple Product
-1. 1005-Average 1
-1. 1006-Average 2
-1. 1007-Difference
-1. 1008-Salary
-1. 1009-Salary With Bonus
-1. 1010-Simple Calculate
-1. 1011-Sphere
-1. 1012-Area
-1. 1013-The Greatest
-1. 1014-Consumption
-1. 1015-DistanceBetweenTwoPoints
-1. 1016-Distance
-1. 1017-Fuel Spent
-1. 1018-Banknotes
-1. 1019-Time Conversion
-1. 1020-Age In Days
-1. 1021-Banknotes and Coins
-1. 1035-Selection Test 1
-1. 1036-Bhaskara's Formula
-1. 1037-Interval
-1. 1038-Snack
-1. 1040-Average 3
-1. 1041-Coordinates of a Point
-1. 1042-Simple Sort
-1. 1043-Triangle
-1. 1044-Multiples
-1. 1045-Triangle Types
-1. 1046-Game Time
-1. 1047-Game Time with Minutes
-1. 1048-Salary Increase
-1. 1059-Even Numbers
-1. 1060-Positive Numbers
-1. 1064-Positives and Average
-1. 1065-Even Between Five Numbers
-1. 1066-Even, Odd, Positive and Negative
-1. 1067-Odd Numbers
-1. 1070-Six Odd Numbers
-1. 1071-Sum of Consecutive Odd Numbers I
-1. 1072-Interval 2
-1. 1073-Even Square
-1. 1074-Even Or Odd
-1. 1075-Remaining 2
-1. 1078-Multiplication Table
-1. 1080-Highest and Position
-1. 1099-Sum of Consecutive Odd Numbers II
-1. 1101-Sequence of Numbers and Sum
-1. 1113-Ascending and Descending
-1. 1115-Quadrant
-1. 1116-Dividing X by Y
-1. 1117-Score Validation
-1. 1132-Multiples of 13
-1. 1133-Rest of a Division
-1. 1134-Type of Fuel
-1. 1142-PUM
-1. 1143-Squared and Cubic
-1. 1144-Logical Sequence
-1. 1145-Logical Sequence 2
-1. 1146-Growing Sequences
-1. 1153-Simple Factorial
-1. 1154-Ages
-1. 1155-S Sequence
-1. 1157-Divisors I
-1. 1158-Sum of Consecutive Odd Numbers III
-1. 1159-Sum of Consecutive Even Numbers
-1. 1164-Perfect Number
-1. 1180-Lowest Number and Position
-1. 1847-Welcome to the Winter!
-1. 1929-Triangle
-1. 2313-Which Triangle
-
-## <b>Other Problems</b>
-1. AlphabetTriangle
-1. ArmstrongNumber
-1. BubbleSort
-1. CheackPrimeNumber
-1. DecimalToBinary
-1. Factorial
-1. FibonacciSeries
-1. FibonacciTriangle
-1. NumberInCharacters
-1. NumberTriangle
-1. PalindromeNumber
-1. ReverseNumbers
-1. SumOfDigits
-1. SwapNumbers
-1. TowersOfHanoi
